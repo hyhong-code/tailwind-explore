@@ -14,7 +14,7 @@ module.exports = {
         },
       },
       fontFamily: {
-        body: ["Nunito"], // font-body
+        body: ["Nunito"], // will generate class name: font-body
       },
     },
   },
