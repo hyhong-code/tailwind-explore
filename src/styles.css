@@ -1,4 +1,6 @@
 /* Inject tailwind base, components, and utils into my CSS */
 @tailwind base;
+
 @tailwind components;
+
 @tailwind utilities;
